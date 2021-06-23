@@ -1,11 +1,22 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
+  "homepage": "https://www.playerzaf.com/dashboard/",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "query-string": "^6.4.2",
     "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.8",
+    "react-bootstrap-table": "^4.3.1",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-loading-screen": "0.0.17",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "reactstrap": "^8.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
